@@ -1,2 +1,0 @@
-# LAPD-Crime-EDA
-.
